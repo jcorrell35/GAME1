@@ -7,6 +7,8 @@ typedef struct{
     int vx;
     int vy;
     int speed;
+    int health;
+    int score;
 }game_object;
 
 
